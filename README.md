@@ -1,2 +1,1 @@
-# PreCuorse-Henry
-This is a repository of module 2 of the Henry precourse.
+This project is a test of how to create a repository and clone it from GITHUB to my local desktop.
